@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml−stylesheet type="text/xsl" href="poema.xsl"?>
+<poema autor="Federico_García_Lorca" fecha="Abril_de_1915" lugar="Granada">
+<titulo>Alba</titulo>
+<verso>Mi corazón oprimido</verso>
+<verso>late junto a la alborada</verso>
+</poema>
